@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">أخلاقي</string>
+    <string name="welcome">مرحباً بك في لعبة أخلاقي</string>
+    <string name="choose_language">اختر لغتك</string>
+    <string name="start_game">ابدأ اللعبة</string>
+    <string name="correct">إجابة صحيحة! أحسنت.</string>
+    <string name="wrong">ليست أفضل إجابة، حاول مرة أخرى.</string>
+</resources>

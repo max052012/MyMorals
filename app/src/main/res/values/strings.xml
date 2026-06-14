@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMorals</string>
+    <string name="welcome">Welcome to MyMorals Game</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="start_game">Start Game</string>
+    <string name="correct">Correct! Well done.</string>
+    <string name="wrong">That's not the best choice. Try again!</string>
+</resources>

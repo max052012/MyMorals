@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question_ar": "رأيت طفلًا يبكي في الشارع، ماذا تفعل؟",
+    "question_en": "You see a child crying in the street. What do you do?",
+    "options_ar": ["أتجاهله", "أواسيه وأسأله ما به", "أصوره فيديو"],
+    "options_en": ["Ignore him", "Comfort him and ask what's wrong", "Record a video of him"],
+    "correct_index": 1
+  },
+  {
+    "id": 2,
+    "question_ar": "وجدت محفظة على الأرض، ماذا تفعل؟",
+    "question_en": "You found a wallet on the ground. What do you do?",
+    "options_ar": ["آخذ المال وأرميها", "أحاول إيجاد صاحبها", "أتركها مكانها"],
+    "options_en": ["Take the money and throw it", "Try to find the owner", "Leave it there"],
+    "correct_index": 1
+  },
+  {
+    "id": 3,
+    "question_ar": "معلمك نسي حقيبته، ماذا تفعل؟",
+    "question_en": "Your teacher forgot his bag. What do you do?",
+    "options_ar": ["أفتش فيها", "أذهب بها إلى الإدارة", "أتركها مكانها"],
+    "options_en": ["Look inside it", "Take it to the office", "Leave it there"],
+    "correct_index": 1
+  },
+  {
+    "id": 4,
+    "question_ar": "أحد زملائك يتعرض للتنمر، ماذا تفعل؟",
+    "question_en": "One of your classmates is being bullied. What do you do?",
+    "options_ar": ["أضحك مع المتنمرين", "أتجاهل", "أساعده وأبلغ المعلم"],
+    "options_en": ["Laugh with the bullies", "Ignore it", "Help him and tell the teacher"],
+    "correct_index": 2
+  },
+  {
+    "id": 5,
+    "question_ar": "والدتك تطلب مساعدتك، ماذا تفعل؟",
+    "question_en": "Your mother asks for help. What do you do?",
+    "options_ar": ["أساعدها", "أرفض", "أختبئ في الغرفة"],
+    "options_en": ["Help her", "Say no", "Hide in your room"],
+    "correct_index": 0
+  }
+]
